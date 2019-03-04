@@ -1,1 +1,3 @@
+User story 1
 
+As a logged in user, Jimmy wants to input the location of his workplace so that he can find housing within a certain radius. Jimmy is an undergraduate CS student who was accepted for an internship program as a software engineer at Amazon in Seattle. He will have to find housing in Seattle over a three month period. Jimmy also wants to know how he would be able to commute to work based upon where he resides in Seattle. Jimmy will also input how much money he has or how much money he will earn in order to figure out where he can stay in which the price of housing and transportation is most economically sensible.
