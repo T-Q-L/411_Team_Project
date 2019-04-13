@@ -6,7 +6,8 @@ $(document).ready(() => {
         $.get('/zipcode', {text:text})
             .done((data) => {
                 console.log(data);
-                $('#rental_prices').prepend('<li>'+text+': '+data['result']+'</li>');
+                output= "<br>"+data['result'].studio+"<br>"+data['result'].one_bedroom+"<br>"+data['result'].two_bedroom+"<br>"+data['result'].three_bedroom+"<br>"+data['result'].all_homes+"<br>"+data['result'].walkscore
+                $('#rental_prices').prepend('<li>'+text+': '+output+'</li>');
                 $('#input').val('');
 
             })
