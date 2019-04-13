@@ -1,0 +1,16 @@
+Our development IDE is Webstorm due to our wise professor's recommendation and the quality of code the application autogenerates 
+for node.js web applications and we used postman to generate the initial code for the API call. The language stack that we're 
+using for our prototype implements the pug templating engine on the front end along with javascript and css. We're using 
+javascript and css due to them being the default languages of front end development and we're using pug because that is Webstorm's 
+default choice and the simplicity of the engine. We're using Ajax to asynchronusly pull data from the backend using user input so
+that we do not need to reload the page to display the information the user asked for. We're also currently using Node.js to build 
+the backend and communicate with our APIs to create better consistancy between the front and backend. We're pulling the information
+from our API in JSON format and we're also currently storing our API keys in a JSON file so that we can more easily parse the 
+information due to it being in javascript object notation and being more compatible with javascript code. Our code is stored on 
+github due to course requirements and our team's main method of communication is facebook messanger because that is what we can
+count on people to check.
+
+Our team had an intention on using Java for the backend due to multiple members having more experience with the language, however
+since Node.js allowed us to fulfil the needs of the prototype more quickly and effiently we went with that language for the time
+being. Reccomendations from our professor and classmates about which tools were simple and aloud for rapid progress played a large
+part in our choice of technology stack.

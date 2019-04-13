@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb9d0024-bf7f-4d8c-bc1c-f72edb2b0933" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/rental_price_query.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/rental_price_query.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/zipcode.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/zipcode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
-    </list>
+    <list default="true" id="cb9d0024-bf7f-4d8c-bc1c-f72edb2b0933" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/zipcode.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="2100">
               <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
             </state>
           </provider>
@@ -27,7 +22,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bin/www">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-702" />
+            <state relative-caret-position="-501" />
           </provider>
         </entry>
       </file>
@@ -198,16 +193,18 @@
       <workItem from="1554484905796" duration="1642000" />
       <workItem from="1555011939011" duration="8732000" />
       <workItem from="1555116580957" duration="663000" />
+      <workItem from="1555197180625" duration="352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14075000" />
+    <option name="totallyTimeSpent" value="14427000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1385" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1379" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24926686" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24889544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -232,7 +229,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/routes/zipcode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="2100">
           <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
         </state>
       </provider>
@@ -269,7 +266,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/www">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702" />
+        <state relative-caret-position="-501" />
       </provider>
     </entry>
   </component>
